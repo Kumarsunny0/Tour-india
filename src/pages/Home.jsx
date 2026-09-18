@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import Hero from "../components/Hero";
+import Hero from "../components/hero";
 import CityCard from "../components/CityCard";
 import ReviewsForm from "../components/ReviewsForm";
 

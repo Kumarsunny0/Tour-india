@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import RedFort from "../assets/RedFort.jpg";
 import indiaGate from "../assets/indiaGate.jpg";
 import DelhiWeather from "../components/DelhiWeather";
-import hero from "../assets/Hero.jpg";
+import hero from "../assets/hero.jpg";
 
 const places = [
   {
